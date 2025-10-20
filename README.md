@@ -8,14 +8,14 @@
 
 ### 💬 A quick note
 If you came here expecting flashy projects and open source fireworks… sorry to disappoint.  
-This space is mostly where I run tech tests, break stuff (on purpose), and try out ideas before they grow up.  
+This space is mostly where I run tech tests, break stuff (on purpose) and try out ideas before they grow up.  
 
 You could say this repo is more **_sandbox_** than **_showroom_**.  
 
 ---
 
 <p align="center">
-  <sub>✨ Don’t mind the mess — innovation’s in progress. ✨</sub>
+  <sub>🕳️ Nothing to see here, this space is intentionally empty.</sub>
 </p>
 
 
