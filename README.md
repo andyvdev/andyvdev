@@ -6,14 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Tests-%F0%9F%9A%80-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code%20Sandbox-%F0%9F%92%BB-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Breaking%20Things-(On%20Purpose)-orange?style=flat-square" />
-</p>
-
----
-
 ### 💬 A quick note
 If you came here expecting flashy projects and open source fireworks… sorry to disappoint.  
 This space is mostly where I run tech tests, break stuff (on purpose), and try out ideas before they grow up.  
