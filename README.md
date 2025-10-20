@@ -1,4 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I’m Andy</h1>
+
+<p align="center">
+  <i>Welcome to my little corner of GitHub.</i>  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Tests-%F0%9F%9A%80-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code%20Sandbox-%F0%9F%92%BB-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Breaking%20Things-(On%20Purpose)-orange?style=flat-square" />
+</p>
+
+---
+
+### 💬 A quick note
+If you came here expecting flashy projects and open source fireworks… sorry to disappoint.  
+This space is mostly where I run tech tests, break stuff (on purpose), and try out ideas before they grow up.  
+
+You could say this repo is more **_sandbox_** than **_showroom_**.  
+
+---
+
+<p align="center">
+  <sub>✨ Don’t mind the mess — innovation’s in progress. ✨</sub>
+</p>
+
 
 <!--
 **andyvdev/andyvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
